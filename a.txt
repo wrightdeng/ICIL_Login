@@ -1,4 +1,1 @@
-1. test git command
-2. test git work
-3. test git error
-4. 4. 4. 4. hello git !
+hello world !
